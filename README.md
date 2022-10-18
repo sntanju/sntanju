@@ -29,4 +29,3 @@ I'm a Passionate Web Developer with a hardworking mindset and determined to enri
 
 ![GitHub metrics](https://metrics.lecoq.io/sntanju)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sntanju)  
