@@ -1,8 +1,8 @@
 ![Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQEHV8UTLnxl0A/profile-displaybackgroundimage-shrink_350_1400/0/1666009912175?e=1671667200&v=beta&t=TFHJhP4Tjt9Gp2mnHso38phLjpR4HByV7ENigVsyduw)
-### Hello, I'm Sanjida Nasrin Tanju
-#### Web Developer
+## Hello, I'm Sanjida Nasrin Tanju
+### Web Developer
 
-I'm a Passionate Web Developer with a hardworking mindset and determined to enrich my knowledge in this sector further with my dedication. I'm responsible, rational, prudent and self-dependent and also I believe in learning from mistake. I can work efficiently as an individual and also with a team. I'm never scared to take new challenges and deal with them.
+<b>I'm a Passionate Web Developer with a hardworking mindset and determined to enrich my knowledge in this sector further with my dedication. I'm responsible, rational, prudent and self-dependent and also I believe in learning from mistake. I can work efficiently as an individual and also with a team. I'm never scared to take new challenges and deal with them.</b>
 
 
 
