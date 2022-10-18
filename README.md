@@ -15,14 +15,14 @@ I'm a Passionate Web Developer with a hardworking mindset and determined to enri
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sntanju)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sntanju07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sntanju07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sanjida-nasrin.netlify.app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/sntanju07)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sntanju)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntanju)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sntanju&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sntanju&theme=radical&hide_border=false)<br/>
-
+![](https://github-profile-trophy.vercel.app/?username=sntanju&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=sntanju&icon=0&color=0)](https://visitcount.itsvg.in)
 
