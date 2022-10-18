@@ -33,7 +33,7 @@ I'm a Passionate Web Developer with a hardworking mindset and determined to enri
 
 ## GitHub Stats📊
 ![](https://github-readme-stats.vercel.app/api?username=sntanju&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sntanju&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sntanju&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sntanju&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=sntanju&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
