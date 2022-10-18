@@ -38,6 +38,12 @@ I'm a Passionate Web Developer with a hardworking mindset and determined to enri
 ![](https://github-profile-trophy.vercel.app/?username=sntanju&theme=radical&no-frame=false&bg=true&margin-w=4)
 ---
 
+## Random Dev Quote✍️
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+## Random Dev Meme 😂
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ![GitHub metrics](https://metrics.lecoq.io/sntanju)  
 
