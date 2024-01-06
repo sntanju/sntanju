@@ -8,6 +8,7 @@ A dedicated and passionate Software Developer committed to continuous learning a
 
 
 <h3 align="left">Connect Me</h3>
+<hr/>
 <div align="center">
 
 <a href="https://linkedin.com/in/sntanju07" target="_blank">
@@ -15,13 +16,7 @@ A dedicated and passionate Software Developer committed to continuous learning a
 </a>
 <a href="https://www.facebook.com/sntanju07" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://sanjida-nastin.netlify.app" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.codewars.com/users/sntanju07" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
+</a> 
 <a href="https://github.com/sntanju" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
