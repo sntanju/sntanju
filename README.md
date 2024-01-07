@@ -39,14 +39,14 @@ A dedicated and passionate Software Developer committed to continuous learning a
 ![](https://github-readme-stats.vercel.app/api?username=sntanju&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sntanju&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sntanju&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## GitHub Trophies🏆
 ![](https://github-profile-trophy.vercel.app/?username=sntanju&theme=radical&no-frame=false&bg=true&margin-w=4)
 ---
 
 ## Random Dev Quote✍️
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-## Random Dev Meme 😂
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 ![GitHub metrics](https://metrics.lecoq.io/sntanju)  
