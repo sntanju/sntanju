@@ -46,8 +46,5 @@ A dedicated and passionate Software Developer committed to continuous learning a
 
 ## Random Dev Quote✍️
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/sntanju)  
+ 
 
