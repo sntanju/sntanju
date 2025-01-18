@@ -3,6 +3,8 @@
 
 A dedicated and passionate Software Developer committed to continuous learning and growth in this dynamic field. With a strong work ethic and a proactive mindset, I take responsibility for my work, apply rational thinking, and exercise prudence in decision-making. I strive for self-reliance and firmly believe in the value of learning from mistakes. I am proficient in both independent work and collaborative teamwork. I embrace challenges with confidence and adaptability while remaining eager to efficiently learn and apply new technologies.
 
+[![website](https://img.shields.io/badge/Portfolio-sanjidanasrin.vercel.app-2648ff?style=flat&logo=google-chrome)](https://sanjidanasrin.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sntanju07) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29166542/sanjida-nasrin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sntanju07)
+
 ## Languages and Tools💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
