@@ -5,6 +5,8 @@ A dedicated and passionate Software Developer committed to continuous learning a
 
 [![website](https://img.shields.io/badge/Portfolio-sanjidanasrin.vercel.app-2648ff?style=flat&logo=google-chrome)](https://sanjidanasrin.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sntanju07) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29166542/sanjida-nasrin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sntanju07)
 
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,php,vite,react,laravel,next,nodejs,express,mysql,mongodb&theme=dark" />
+
 ## Languages and Tools💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
