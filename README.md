@@ -1,4 +1,3 @@
-
 # Hey 👋 I am Sanjida Nasrin
 
 A passionate Software Developer committed to continuous learning and growth. With a proactive mindset and strong problem-solving skills, I take ownership of my work and strive for self-reliance while learning from mistakes. Skilled in both independent tasks and teamwork, I confidently embrace challenges, adapt quickly, and eagerly learn and apply new technologies.
@@ -7,13 +6,6 @@ A passionate Software Developer committed to continuous learning and growth. Wit
 
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,react,laravel,next,nodejs,express,mysql,mongodb&theme=dark" />
 
-## GitHub Stats📊
-![](https://github-readme-stats.vercel.app/api?username=sntanju&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sntanju&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sntanju&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ###  ⚡ Github Stats
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sntanju&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntanju&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
- 
-
